@@ -1,11 +1,14 @@
 # 《蒙古在费州：寄错的大钱袋》
 
-已修正预览文件，确保真正可渲染的版本在 GitHub 上可直接打开：
+A1 预览已按你的要求做进一步调整：
+- 所有主文字水平居中（x=1800，text-anchor=middle）。
+- 字体改为优先使用 "Source Han Serif SC" / "Noto Serif SC"（若设备未安装会回退到 Georgia / PingFang / 系统字体）。
+- 已扩大“作者”与“联总”之间的垂直间距，便于视觉分离。
 
-- A1（居中极简）：https://github.com/zkltd2013-stack/mongolia-in-feizhou/blob/main/cover_print_preview_A1.svg
-- A2（传统左对齐）：https://github.com/zkltd2013-stack/mongolia-in-feizhou/blob/main/cover_print_preview_A2.svg
-- 旧版 PNG 预览已保留为占位，不再作为正式交付文件
+预览链接（在 iPhone Safari 打开）：
+- A1（更新后）：https://github.com/zkltd2013-stack/mongolia-in-feizhou/blob/main/cover_print_preview_A1.svg
+- A2（备用）：https://github.com/zkltd2013-stack/mongolia-in-feizhou/blob/main/cover_print_preview_A2.svg
 
-说明：
-- 目前这些是可直接在浏览器中打开的 SVG 预览文件，适合你在 iPhone Safari 中确认字距、作者间距与版式。
-- 若你确认 A1 版无误，我将在下一步继续生成真正的 print-ready PDF / ZIP 下载包，并提供可直接下载的 raw 链接。
+回复：
+- “通过 / 确认” → 我把 A1 做为最终封面并开始生成 print-ready PDF/ZIP 并上传到 Releases；或
+- 继续微调 → 指明你要微调的具体点（例如：标题再上移 20px，字号增大 8%，或把作者名字体改为无衬线等）。
