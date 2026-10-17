@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="2400" viewBox="0 0 3600 2400">
+  <rect width="3600" height="2400" fill="#f7f3ea"/>
+  <rect x="90" y="90" width="3420" height="2220" fill="none" stroke="#c8a97a" stroke-width="6"/>
+
+  <rect x="120" y="120" width="1500" height="2160" fill="#efe6d6" stroke="#b7965e" stroke-width="2"/>
+  <rect x="1620" y="120" width="360" height="2160" fill="#d9b36d" stroke="#b58f4a" stroke-width="2"/>
+  <rect x="2000" y="120" width="1500" height="2160" fill="#efe6d6" stroke="#b7965e" stroke-width="2"/>
+
+  <text x="2750" y="700" text-anchor="middle" font-size="220" font-family="Georgia, serif" fill="#2e2a28" letter-spacing="6">蒙古在费州</text>
+  <text x="2750" y="910" text-anchor="middle" font-size="120" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#8a6b4d" letter-spacing="4">寄错的大钱袋</text>
+
+  <text x="2750" y="1220" text-anchor="middle" font-size="48" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#4a3f37" letter-spacing="2">作者</text>
+  <text x="2750" y="1305" text-anchor="middle" font-size="80" font-family="Georgia, serif" fill="#2e2a28" letter-spacing="2">联总</text>
+
+  <g transform="translate(1620,120) rotate(90)">
+    <text x="1080" y="-30" font-size="64" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#2e2a28" letter-spacing="2">蒙古在费州  ·  联总</text>
+  </g>
+
+  <rect x="200" y="1280" width="1320" height="640" fill="#f7f1e3" stroke="#d0b58a" stroke-width="1"/>
+  <text x="860" y="1400" text-anchor="middle" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#3a312f" letter-spacing="1">真相被切割，记忆被寄存</text>
+  <text x="860" y="1468" text-anchor="middle" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#3a312f" letter-spacing="1">一张抱红车的照片，一张写着“别告诉他”的便条，城市如何在善后与舆论之间交换代价。</text>
+
+  <text x="180" y="60" font-size="28" font-family="Arial, sans-serif" fill="#6b5b4a">Bleed: 3mm (included). Color: CMYK recommended. DPI: 300</text>
+</svg>

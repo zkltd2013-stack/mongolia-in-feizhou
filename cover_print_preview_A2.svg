@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="2400" viewBox="0 0 3600 2400">
+  <rect width="3600" height="2400" fill="#f6f1e7"/>
+  <rect x="90" y="90" width="3420" height="2220" fill="none" stroke="#bfa277" stroke-width="6"/>
+
+  <rect x="120" y="120" width="1500" height="2160" fill="#f6efe1" stroke="#b8945f" stroke-width="2"/>
+  <rect x="1620" y="120" width="420" height="2160" fill="#c9a66a" stroke="#a77f3e" stroke-width="2"/>
+  <rect x="2060" y="120" width="1500" height="2160" fill="#f6efe1" stroke="#b8945f" stroke-width="2"/>
+
+  <text x="2220" y="520" text-anchor="start" font-size="200" font-family="Georgia, serif" fill="#2f2927" letter-spacing="4">蒙古在费州</text>
+  <text x="2220" y="700" text-anchor="start" font-size="92" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#7f5e3f" letter-spacing="2">寄错的大钱袋</text>
+  <text x="2220" y="920" text-anchor="start" font-size="64" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#4a3f37" letter-spacing="2">联总</text>
+
+  <text x="1740" y="1320" font-size="60" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#2e2a28" transform="rotate(90 1740 1320)" letter-spacing="2">蒙古在费州 · 联总</text>
+
+  <text x="220" y="1280" text-anchor="start" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#3a312f">真相被切割，记忆被寄存。</text>
+  <text x="220" y="1348" text-anchor="start" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#3a312f">本书以一张抱红车照片与一张便签为起点，追问城市善后、媒体与权力的交错，以及个体在其中的选择与代价。</text>
+
+  <text x="180" y="60" font-size="28" font-family="Arial, sans-serif" fill="#6b5b4a">Bleed: 3mm (included). Color: CMYK recommended. DPI: 300. No ISBN barcode on back cover per request.</text>
+</svg>
